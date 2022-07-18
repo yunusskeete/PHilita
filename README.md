@@ -1,2 +1,2 @@
 # PHilita
-A dynamic routing planner for public transit optimisation.
+A dynamic route planner for public transit optimisation.
